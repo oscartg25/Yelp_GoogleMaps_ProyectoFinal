@@ -35,5 +35,5 @@
 
   📈**Matplotlib**: Utilizado para la visualización de datos y generación de gráficos.
   
-  💻**Power BI**: Herramienta de visualización y análisis de datos, se utilizó para transformar datos complejos en información significativa y comprensible, lo que permite tomar decisiones basadas en datos de manera más efectiva.
+  💻**Looker Studio**: Herramienta de visualización y análisis de datos, se utilizó para transformar datos complejos en información significativa y comprensible, lo que permite tomar decisiones basadas en datos de manera más efectiva.
   </p>
