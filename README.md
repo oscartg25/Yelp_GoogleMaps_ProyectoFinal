@@ -2,7 +2,7 @@
 <hr>
 
 <p align="center">
-  <img src="src/Hunters.png" alt="Logo">
+  <img src="src/Huntersb.png" alt="Hunters">
 </p>
 <hr>
 
