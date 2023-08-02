@@ -1,0 +1,7 @@
+README.md
+setup.py
+ETL_pipeline.egg-info/PKG-INFO
+ETL_pipeline.egg-info/SOURCES.txt
+ETL_pipeline.egg-info/dependency_links.txt
+ETL_pipeline.egg-info/requires.txt
+ETL_pipeline.egg-info/top_level.txt
