@@ -2,7 +2,7 @@
 <hr>
 
 <p align="center">
-  <img src="src/Huntersb.png" alt="Hunters">
+  <img src="src/Connectify_ne.png" alt="Hunters">
 </p>
 <hr>
 
@@ -34,6 +34,8 @@
   🐼**Pandas**: Utilizado para la manipulación y análisis de datos estructurados.
 
   📈**Matplotlib**: Utilizado para la visualización de datos y generación de gráficos.
+
+  🌐 **Google Cloud Platform**: Es una suite de servicios en la nube ofrecida por Google que proporciona una variedad de soluciones para alojar, gestionar y desarrollar aplicaciones y servicios en la nube.
   
-  💻**Looker Studio**: Herramienta de visualización y análisis de datos, se utilizó para transformar datos complejos en información significativa y comprensible, lo que permite tomar decisiones basadas en datos de manera más efectiva.
+  💻**Looker Studio**: Herramienta de Google Data Studio que permite convertir datos en informes y paneles claros, totalmente personalizables, fáciles de consultar y compartir, lo que permite tomar decisiones basadas en datos de manera más efectiva.
   </p>
