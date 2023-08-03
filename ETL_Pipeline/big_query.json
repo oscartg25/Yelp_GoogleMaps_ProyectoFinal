@@ -1,0 +1,57 @@
+{
+    "BigQuery Schema": [
+      {
+        "name": "business_id",
+        "type": "STRING"
+      },
+      {
+        "name": "name",
+        "type": "STRING"
+      },
+      {
+        "name": "address",
+        "type": "STRING"
+      },
+      {
+        "name": "city",
+        "type": "STRING"
+      },
+      {
+        "name": "state",
+        "type": "STRING"
+      },
+      {
+        "name": "postal_code",
+        "type": "STRING"
+      },
+      {
+        "name": "latitude",
+        "type": "STRING"
+      },
+      {
+        "name": "longitude",
+        "type": "STRING"
+      },
+      {
+        "name": "stars",
+        "type": "INTEGER"
+      },
+      {
+        "name": "review_count",
+        "type": "INTEGER"
+      },
+      {
+        "name": "attributes",
+        "type": "STRING"
+      },
+      {
+        "name": "categories",
+        "type": "STRING"
+      },
+      {
+        "name": "hours",
+        "type": "STRING"
+      }
+    ]
+  }
+
