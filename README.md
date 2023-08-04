@@ -40,7 +40,7 @@ Con esta innovadora solución, se mejorará significativamente la experiencia de
 <h1 align="center">Objetivos del Negocio</h1>
 <p align="justify">
   
-  1. Creación de restaurantes en zonas con mayor afluencia de turistas: Se tomó en cuenta esto ya que al ser ciudades muy turísticas, el flujo de clientes es constante. 
+  1. Mejorar el posicionamiento de restaurantes en zonas con mayor afluencia de turistas: Se tomó en cuenta esto ya que al ser ciudades muy turísticas, el flujo de clientes es constante. 
   
   2. Analizar las tendencias del rubro: Con esto buscamos entender qué es lo que buscan los clientes.
   
